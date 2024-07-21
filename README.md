@@ -1,6 +1,6 @@
 This repository lovingly follows the [nord-windows-terminal](https://github.com/thismat/nord-windows-terminal) repository. Thank you @thismat for your hard work on that.
 
-[screenshot](!./screenshot.png)
+[!screenshot](./screenshot.png)
 
 # Getting Started
 
