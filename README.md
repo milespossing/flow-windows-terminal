@@ -1,14 +1,15 @@
-<p align="center"><a href="https://github.com/thismat/nord-windows-terminal?t=123" target="_blank"><img src="https://github.com/thismat/nord-windows-terminal/blob/main/screenshot.png?raw=true&t=123"/></a></p>
+This repository lovingly follows the [nord-windows-terminal](https://github.com/thismat/nord-windows-terminal) repository. Thank you @thismat for your hard work on that.
 
-<p align="center">An arctic, north-bluish clean and elegant <a href="https://github.com/microsoft/terminal">Windows Terminal</a> color theme.</p>
+TODO <p align="center"><a href="https://github.com/thismat/nord-windows-terminal?t=123" target="_blank"><img src="https://github.com/thismat/nord-windows-terminal/blob/main/screenshot.png?raw=true&t=123"/></a></p>
+
+TODO <p align="center">An arctic, north-bluish clean and elegant <a href="https://github.com/microsoft/terminal">Windows Terminal</a> color theme.</p>
 
 
 # Getting Started
 
-This is an _unofficial_ port of [Nord](https://www.nordtheme.com/) to Windows Terminal. Visit [Nord Theme](https://www.nordtheme.com/) for more information about the theme. 
+This is an _unofficial_ port of [Flow](https://github.com/0xstepit/flow.nvim) to Windows Terminal. Visit [Flow](https://github.com/0xstepit/flow.nvim) for more information about the theme. 
 
-> An arctic, north-bluish color palette.
- Created for the clean and uncluttered design pattern to achieve a optimal focus and readability for code syntax highlighting and UI components.
+> Flow is an Nvim color scheme designed for transparent or dark backgrounds. It features carefully designed colors to help focusing during coding plus fluorescent details to provide a vibrant environment. Why fluo? Because it is cool!.
 
 ## Install
 
@@ -28,4 +29,6 @@ Run the `install.ps1` PowerShell script to install the colorscheme via [Windows 
 
 ### Manual
 
-Simply copy the JSON from [`nord.json`](https://raw.githubusercontent.com/thismat/nord-windows-terminal/main/nord.json) or from this page, into the `schemes` section of Windows Terminal `profile.json`.
+TODO
+
+Simply copy the JSON from [`flow.json`](https://raw.githubusercontent.com/thismat/nord-windows-terminal/main/nord.json) or from this page, into the `schemes` section of Windows Terminal `profile.json`.
