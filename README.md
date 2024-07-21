@@ -1,9 +1,6 @@
 This repository lovingly follows the [nord-windows-terminal](https://github.com/thismat/nord-windows-terminal) repository. Thank you @thismat for your hard work on that.
 
-TODO <p align="center"><a href="https://github.com/thismat/nord-windows-terminal?t=123" target="_blank"><img src="https://github.com/thismat/nord-windows-terminal/blob/main/screenshot.png?raw=true&t=123"/></a></p>
-
-TODO <p align="center">An arctic, north-bluish clean and elegant <a href="https://github.com/microsoft/terminal">Windows Terminal</a> color theme.</p>
-
+[screenshot](!./screenshot.png)
 
 # Getting Started
 
@@ -31,4 +28,4 @@ Run the `install.ps1` PowerShell script to install the colorscheme via [Windows 
 
 TODO
 
-Simply copy the JSON from [`flow.json`](https://raw.githubusercontent.com/thismat/nord-windows-terminal/main/nord.json) or from this page, into the `schemes` section of Windows Terminal `profile.json`.
+Simply copy the JSON from [`flow.json`](https://raw.githubusercontent.com/milespossing/flow-windows-terminal/main/flow.json) or from this page, into the `schemes` section of Windows Terminal `profile.json`.
